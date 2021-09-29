@@ -17,3 +17,6 @@ Compiling source
 Generating executable
         helloworld.jar
 ```
+
+# Graphic
+![](graphic.png)
